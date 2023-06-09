@@ -48,3 +48,8 @@ body {
     max-width: 778PX;
     margin: auto;
 }
+@media only screen and (max-width: 771px) {
+    .emoji {
+        width: 100%;
+    }
+  }
